@@ -10,14 +10,15 @@
     right: 0;
     width: 100%;
     border-bottom: 0.1rem solid var(--color-light-gray);
+    z-index: 1;
 }
 
 .menu-content {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-top: 0.8rem;
-    padding-bottom: 0.8rem;
+    padding-top: 0rem;
+    padding-bottom: 0rem;
 }
 
 .menu h1 {
