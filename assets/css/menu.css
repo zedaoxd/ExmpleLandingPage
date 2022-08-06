@@ -59,3 +59,10 @@
     width: 70%;
     left: 15%;
 }
+
+#main-logo {
+    display: flex; 
+    flex-direction: row; 
+    align-items: center;
+    color: var(--primary-color);
+}
